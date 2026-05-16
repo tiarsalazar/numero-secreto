@@ -20,10 +20,4 @@ solo no le da el tesoro.
 - Completado -- Proyecto básico para practicar lógica, bucles y entrada de datos.
 
 ## Autor
-Tiare Salazar -- Inspirado en una prueba de Fundamentos de la Programación
-
-## Agradecimientos
-Ayuda de ChatGPT para función garantizar_datos() y funciones de guardar y cargar archivos, además, pequeñas implementaciones en implementaciones en funcionalidad del ranking. Debugging.
-
-## Retroalimentación
-Acepto comentarios y opiniones, aunque es super básico, pero gracias
+Tiare Salazar
